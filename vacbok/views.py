@@ -61,9 +61,9 @@ def home(request):
     cent=VacCenter.objects.all()
     
     check_time()
-    c_count=cent.count()
+    
     username = request.user.username
-    context={'center':cent,'c_count':c_count,'username':username}
+    context={'center':cent,'c_count':2,'username':username}
     return render(request,'vacbok/home.html',context)
 
 

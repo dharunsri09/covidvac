@@ -80,8 +80,8 @@ WSGI_APPLICATION = 'covidVac.wsgi.application'
 
 #DATABASES = {
  #   'default': {
-  ##     'NAME': BASE_DIR / 'db.sqlite3',
-    #}
+ #     'NAME': BASE_DIR / 'db.sqlite3',
+   #}
 #}
 #
 

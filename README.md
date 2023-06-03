@@ -9,19 +9,29 @@ lets see how my project looks in another host
 
 
 #USER SIDE
+
+HOME:
 ![Screenshot (760)](https://github.com/dharunsri09/covidvac/assets/115633964/0e97c6e6-b3d6-444f-aff9-925ac17c35cf)
 
 
+MYPROFILE
 ![Screenshot (761)](https://github.com/dharunsri09/covidvac/assets/115633964/ffe632ed-afd1-4b22-a12d-aabad38d220d)
 
 
+BOOKING
 ![Screenshot (762)](https://github.com/dharunsri09/covidvac/assets/115633964/1a9cffd9-5b07-4260-b5f3-0eb89f857d41)
 
 
+ABOUT
 ![Screenshot (763)](https://github.com/dharunsri09/covidvac/assets/115633964/2592c142-183e-4b63-a497-2cf4d7aa00c3)
 
-#ADMIN SIDE
+
+LOGIN
 ![Screenshot (764)](https://github.com/dharunsri09/covidvac/assets/115633964/9e0b8a96-2ec4-432b-a1f6-06456cd47bec)
+
+#ADMIN SIDE
+
+
 
 
 ![Screenshot (765)](https://github.com/dharunsri09/covidvac/assets/115633964/65674c24-284a-4746-8037-021b4aaa8fc3)
